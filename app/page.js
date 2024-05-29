@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <>
       <div className="flex flex-col items-center justify-evenly gap-8 min-h-screen py-2 w-[80%] md:w-auto m-auto">
-        <h3 className="text-3xl md:text-6xl">Hygrothermal Aging Chamber </h3>
+        <h3 className="text-3xl md:text-6xl text-center">Hygrothermal Aging Chamber </h3>
         <div className="flex flex-col items-center justify-between">
           <h1 className="text-2xl md:text-4xl font-bold mb-4">Sensor Data</h1>
           <div className=" shadow-md rounded-lg p-6 flex flex-col items-start justify-between gap-8 px-5 py-5 border border-white">
